@@ -1,4 +1,4 @@
-# segmentacao-de-clientes
+# Segmentação de Clientes
 
 
 A equipe de Relacionamento com o Cliente (CRM) do Grupo XXX pretende realizar disparos de e-mail marketing e SMS
