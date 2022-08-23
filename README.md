@@ -10,3 +10,6 @@ orientação, seu (futuro) gestor sugeriu dois possíveis estudos:
 
 1. Análise exploratória, para entendermos a base de dados e os padrões de comportamento dos clientes;
 2. Segmentação dos clientes.
+
+#Data Viz
+https://public.tableau.com/app/profile/carolina.tavares.sancho.monteiro/viz/Case_16600002308140/Story1
